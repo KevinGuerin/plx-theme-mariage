@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/* Clearfix for IE */
+
+
+/* Clearfix for IE7 & IE8 */
+.header-home .header-text{
+	width:600px\9;
+	margin-left:10px\9;
+}
+*+html .activity-title{	margin: 23px 4px 5px; }
+.activity-title{	margin: 18px 4px 5px\0/; }	
+
